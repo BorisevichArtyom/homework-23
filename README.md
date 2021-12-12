@@ -9,6 +9,6 @@ Home task #23
 6. get component from spring context and call methods
 ___
 ## It's simple Java app.
-   To watch the force of AOP in Java
+   To watch the force of AOP in Java                      
    AopDeveloperRunner/run
 ___
