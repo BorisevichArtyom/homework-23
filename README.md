@@ -8,6 +8,7 @@ Home task #23
 5. add aspects to 2 methods of component #3
 6. get component from spring context and call methods
 ___
-## How to use?
-  Simple console application: AopDeveloperRunner/run
+## It's simple Java app.
+   To watch the force of AOP in Java
+   AopDeveloperRunner/run
 ___
