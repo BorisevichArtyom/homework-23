@@ -9,5 +9,5 @@ Home task #23
 6. get component from spring context and call methods
 ___
 ## How to use?
-    AopDeveloperRunner/run
+  Simple console application: AopDeveloperRunner/run
 ___
